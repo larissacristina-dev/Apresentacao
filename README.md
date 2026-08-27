@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Quem sou eu
 
-Sou uma Desenvolvedora Back-end / Estudante de Analise e Desenvolvimento de Sistemas e software apaixonada por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em  HTML, CSS, Python e sempre em busca de novos desafios!
+Sou uma Desenvolvedora Back-end / Estudante de Analise e Desenvolvimento de Sistemas e software apaixonada por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focada em aprimorar minhas habilidades em  HTML, CSS, Python e sempre em busca de novos desafios!
 
 
 
