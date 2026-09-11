@@ -35,7 +35,7 @@ E-mail: larissac.projetos@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/larissacristina-dev/
 
-WhatsApp: (11) 9 5945-5941
+WhatsApp: [(11) 9 5945-5941](https://wa.me/qr/RCWRH77KKVVHE1)
 
 Dev.to: https://dev.to/larissacristina
 
