@@ -1,12 +1,5 @@
 # Olá! Eu sou Larissa Cristina 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larissacristina-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Larissa" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissacristina-dev&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</div>
-
-<br>
-
 ### 👩‍💻 Quem sou eu
 Sou **Desenvolvedora Back-end** e estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonada por criar soluções eficientes, resolver problemas complexos e construir aplicações web bem estruturadas. Atualmente, busco aprimorar continuamente minhas habilidades técnicas e colaborar em projetos inovadores.
 
