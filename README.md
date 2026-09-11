@@ -39,5 +39,5 @@ WhatsApp: (11) 9 5945-5941
 
 Dev.to: https://dev.to/larissacristina
 
-Instagram: larissacrixttina
-
+Instagram: [larissacrixttina
+](https://www.instagram.com/devlarissac?stkn=MWloMHNldmw2cG1sNQ%3D%3D&utm_source=qr)
